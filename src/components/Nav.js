@@ -9,7 +9,6 @@ import Box from "@material-ui/core/Box";
 import Organs from "./Organs";
 import Search from "./Search";
 import SignUp from "./SignUp";
-import {} from "react-router-dom";
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
